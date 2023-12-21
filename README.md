@@ -32,6 +32,8 @@
 
 ### 🚶🏼‍♂️ Activities
 - MAR 2018 ~ current: InfoSec Study Club, ***KEEPER*** [[🌐](https://keeper.or.kr/)]
+  - Club Seminar presentation list: [[🌐](#)]
+- FEB 2022 ~ MAY 2023: Web3 Builder Camp, ***Protocol Camp*** [[🌐](https://www.protocolcamp.com/)]
 
 ### ⚙️ &nbsp;GitHub Analytics
 
